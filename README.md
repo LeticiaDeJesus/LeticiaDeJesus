@@ -1,8 +1,8 @@
 ## Olá, me chamo Leticia 👋
 ### Bem Vindos(as/es) ao meu perfil!
  
-> Sou graduanda em Análise e Desenvolvimentos de Sistemas no 2°Semestre da faculdade UniCesumar
-- focando em desenvolvimento Front end
+>Formada em Análise e Desenvolvimentos de Sistemas.
+-  Analista de sistemas jr
 
 ### Ferramentas e Tecnologias
 #### Estou aprendendo
